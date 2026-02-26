@@ -12,7 +12,6 @@ function Declaration() {
 I hereby declare that all the information, projects, and materials presented in this e-portfolio are true, accurate, and originally created by me. Any references used are properly acknowledged. I commit to upholding ethical standards and professional responsibility in the practice of information technology.
             </p>
             <p className="mt-4">
-              <strong>Date:</strong> [Current Date]<br />
               <strong>Signature:</strong> Kyle Christian Bermal
             </p>
           </div>
