@@ -20,7 +20,7 @@ function Certifications() {
       id: 2,
       title: 'OJT Documentation 1',
       issuer: 'On-the-Job Training',
-      date: '2024',
+      date: '2025-2026',
       description: 'On-the-job training activity documentation.',
       image: '/ojt1.jpg'
     },
