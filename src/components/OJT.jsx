@@ -22,7 +22,7 @@ function Certifications() {
       issuer: 'On-the-Job Training',
       date: '2024',
       description: 'On-the-job training activity documentation.',
-      image: '/sample/ojt1.jpg'
+      image: '/ojt1.jpg'
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ function Certifications() {
       issuer: 'On-the-Job Training',
       date: '2024',
       description: 'On-the-job training activity documentation.',
-      image: '/sample/ojt2.jpg'
+      image: '/ojt2.jpg'
     },
     {
       id: 4,
@@ -38,7 +38,7 @@ function Certifications() {
       issuer: 'On-the-Job Training',
       date: '2024',
       description: 'On-the-job training activity documentation.',
-      image: '/sample/ojt3.jpg'
+      image: '/ojt3.jpg'
     },
     {
       id: 5,
@@ -46,7 +46,7 @@ function Certifications() {
       issuer: 'On-the-Job Training',
       date: '2024',
       description: 'On-the-job training activity documentation.',
-      image: '/sample/ojt4.jpg'
+      image: '/ojt4.jpg'
     }
   ];
 
