@@ -28,7 +28,7 @@ function Certifications() {
       id: 3,
       title: 'OJT Documentation 2',
       issuer: 'On-the-Job Training',
-      date: '2024',
+      date: '2025-2026',
       description: 'On-the-job training activity documentation.',
       image: '/ojt2.jpg'
     },
@@ -36,7 +36,7 @@ function Certifications() {
       id: 4,
       title: 'OJT Documentation 3',
       issuer: 'On-the-Job Training',
-      date: '2024',
+      date: '2025-2026',
       description: 'On-the-job training activity documentation.',
       image: '/ojt3.jpg'
     },
@@ -44,7 +44,7 @@ function Certifications() {
       id: 5,
       title: 'OJT Documentation 4',
       issuer: 'On-the-Job Training',
-      date: '2024',
+      date: '2025-2026',
       description: 'On-the-job training activity documentation.',
       image: '/ojt4.jpg'
     }
