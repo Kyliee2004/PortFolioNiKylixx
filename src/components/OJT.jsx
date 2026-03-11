@@ -7,17 +7,9 @@ function Certifications() {
   const closePreview = () => setPreviewImage(null);
 
   const certifications = [
+ 
     {
       id: 1,
-      title: 'Certificate of Participation',
-      issuer: 'Consolatrix College of Toledo City',
-      date: 'September 17, 2022',
-      description:
-        'Certificate of participation for participating in the College of Computer Studies seminar exhibit with the topic entitled "Introduction to UI/UX Designing".',
-      image: '/cert1.png'
-    },
-    {
-      id: 2,
       title: 'OJT Documentation 1',
       issuer: 'On-the-Job Training',
       date: '2025-2026',
@@ -25,7 +17,7 @@ function Certifications() {
       image: '/ojt1.jpg'
     },
     {
-      id: 3,
+      id: 2,
       title: 'OJT Documentation 2',
       issuer: 'On-the-Job Training',
       date: '2025-2026',
@@ -33,7 +25,7 @@ function Certifications() {
       image: '/ojt2.jpg'
     },
     {
-      id: 4,
+      id: 3,
       title: 'OJT Documentation 3',
       issuer: 'On-the-Job Training',
       date: '2025-2026',
@@ -41,7 +33,7 @@ function Certifications() {
       image: '/ojt3.jpg'
     },
     {
-      id: 5,
+      id: 4,
       title: 'OJT Documentation 4',
       issuer: 'On-the-Job Training',
       date: '2025-2026',
